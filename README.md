@@ -60,7 +60,9 @@ The app includes validation and safety checks, but they do not make DME programm
 ## Logs And Backups
 
 The app can auto-save session logs to: `Documents\MSS54 DS2 Tool\Logs`
+
 The backup library defaults to: `Documents\MSS54 DS2 Tool\Backups`
+
 Keep these files. They are useful for review, recovery planning, and comparing prior DME state.
 
 
