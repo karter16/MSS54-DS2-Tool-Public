@@ -19,7 +19,7 @@ You may not:
 1. Sell, rent, sublicense, or charge for copies of the software.
 2. Remove or alter copyright notices, licence notices, branding, attribution, version information, or official project links.
 3. Represent the software as your own work.
-4. Modify, reverse engineer, decompile, disassemble, repackage, or create derivative versions of the software, except where such restriction is not permitted by applicable law.
+4. Modify, repackage, or create derivative versions of the software, except where such restriction is not permitted by applicable law.
 5. Use the software name, logo, signing certificate, update mechanism, or official branding for unofficial versions or services without written permission.
 6. Distribute modified, patched, repacked, renamed, or bundled versions of the software as though they are official releases.
 
