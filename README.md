@@ -2,13 +2,13 @@
 
 Windows 10/11 diagnostic, backup, history, and programming tool for BMW MSS54/MSS54HP DMEs over DS2/K-line.
 
-This public repository is for compiled binary releases of MSS54 DS2 Tool. Source code is not distributed here.
+This public repository is for compiled binary releases of MSS54 DS2 Tool.
 
 ## Download
 
 Download the latest release from the repository's **Releases** page.
 
-Use only official release packages from this repository. Do not run repackaged or modified versions from unknown sources.
+Use only official release packages from this repository.
 
 ## What It Does
 
@@ -54,17 +54,13 @@ The app includes validation and safety checks, but they do not make DME programm
 ## Installation
 
 1. Download the release package.
-2. Extract it to a folder you control, such as `Documents\MSS54 DS2 Tool`.
+2. Extract it to a folder of your choice.
 3. Run `Mss54Ds2Tool.App.exe`.
-
-If Windows SmartScreen appears, verify that you downloaded the app from the official release page before continuing.
 
 ## Logs And Backups
 
 The app can auto-save session logs to: `Documents\MSS54 DS2 Tool\Logs`
-
 The backup library defaults to: `Documents\MSS54 DS2 Tool\Backups`
-
 Keep these files. They are useful for review, recovery planning, and comparing prior DME state.
 
 
