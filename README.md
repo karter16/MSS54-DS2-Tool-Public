@@ -61,13 +61,9 @@ If Windows SmartScreen appears, verify that you downloaded the app from the offi
 
 ## Logs And Backups
 
-The app can auto-save session logs to:
+The app can auto-save session logs to: `Documents\MSS54 DS2 Tool\Logs`
 
-`Documents\MSS54 DS2 Tool\Logs
-
-The backup library defaults to:
-
-`Documents\MSS54 DS2 Tool\Backups`
+The backup library defaults to: `Documents\MSS54 DS2 Tool\Backups`
 
 Keep these files. They are useful for review, recovery planning, and comparing prior DME state.
 
